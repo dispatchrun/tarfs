@@ -1,0 +1,6 @@
+github.com/stealthrocket/fsinfo v0.1.0 h1:EyDLRRh/w7yVeamGikBMTuUPaNirdMkjlXX3PwhyZvQ=
+github.com/stealthrocket/fsinfo v0.1.0/go.mod h1:oQVRGlbYCfBmLKWxe+Y2KNUAg8DovaxEaVz/21zZkb4=
+github.com/stealthrocket/fslink v0.1.0 h1:esxQhcoRW+e2UTl2ZXFFWQsHkpreA79n0nbdwrjymvs=
+github.com/stealthrocket/fslink v0.1.0/go.mod h1:baywhBEE2Cn82BssxlBVEP1l5qM/AhDY8a5Vg8MCGZw=
+github.com/stealthrocket/fstest v0.1.2 h1:5TyC1WNmnSBwr0opj+Xl070wKy3Ld3a3FjiLEg85S9Y=
+github.com/stealthrocket/fstest v0.1.2/go.mod h1:rEQk3bYNszEoEXJcCxgUNdsfrT3VqQBdW31avMj/KhI=
