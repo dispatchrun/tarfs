@@ -7,4 +7,4 @@ require (
 	github.com/stealthrocket/fslink v0.1.3
 )
 
-require github.com/stealthrocket/fstest v0.1.5
+require github.com/stealthrocket/fstest v0.1.6
